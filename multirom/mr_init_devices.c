@@ -18,7 +18,7 @@ const char *mr_init_devices[] =
 
     // boot and data
     "/sys/block/mmcblk0/mmcblk0p21", //boot
-    "/sys/block/mmcblk0/mmcblk0p22", //data
+    "/sys/block/mmcblk0/mmcblk0p22", //recovery
 
     // system ,cache and persist
     "/sys/block/mmcblk0/mmcblk0p24", //system
